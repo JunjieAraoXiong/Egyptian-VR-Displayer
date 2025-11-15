@@ -2,6 +2,14 @@
 
 ***This repository contains very large files! A downloaded zip file will require approximately 170MB of disk space. When unzipped, the contents will require 670MB of disk space!***
 
+## Table of Contents
+- [Description](#description)
+- [How to contact us](#how-to-contact-us)
+- [License](#license)
+- [System Requirements](#system-requirements)
+- [References](#references)
+- [The Team](#the-team)
+
 ## Description
 “Return to the Tomb” is a prototype virtual reality (VR) experience that combines a 3D reconstruction model of the ancient Egyptian necropolis of Saqqara with a photogrammetric model of the Late Period basalt inner sarcophagus of Psamtek, “chief physician” and “overseer of the Temehu (Libyan mercenaries)”. 
 
@@ -27,13 +35,13 @@ To run this experience you will need the following:
 ### For HTC Vive and HTC Cosmos headsets
 * VR-ready Windows PC with the assets in this repository stored locally
 * Steam VR application and account
-* With the HTC headset connected to the VR-ready Windows PC, open the folder and double-click the executable file “The Doctor.exe”. 
+* With the HTC headset connected to the VR-ready Windows PC, navigate to the `bin/` folder and double-click the executable file "ReturnToTheTomb.exe".
 
 ### For Meta Quest 2 headset (Note these instructions work for the original Quest headset as well)
 * VR-ready Windows PC with the assets in this repository stored locally
 * Steam VR application and account
 * Quest Link cable with successful connection to the VR-ready Windows PC ([cable and PC requirements](https://www.meta.com/help/quest/140991407990979/); [setup instructions](https://www.meta.com/help/quest/509273027107091/)). This requires a Meta account and the Meta Quest Link software.
-* With the Meta Quest 2 headset connected to the VR-ready Windows PC and Quest Link working correctly, open the folder and double-click the executable file “The Doctor.exe”. 
+* With the Meta Quest 2 headset connected to the VR-ready Windows PC and Quest Link working correctly, navigate to the `bin/` folder and double-click the executable file "ReturnToTheTomb.exe". 
 
 ## References
 Sullivan, Elaine A. and Rita Lucarelli. 2021. “From the museum back to the tomb: The virtual rejoining of a 26th Dynasty sarcophagus and its burial at Saqqara”. Abusir and Saqqara in the Year 2020, edited by Miroslav Bárta, Filip Coppens, and Jaromír Krejčí. Faculty of Arts, Charles University.
