@@ -3,3 +3,15 @@
 ._README.md
 .Rhistory
 ._*
+
+# Private source repository - DO NOT PUBLISH
+psamtek/
+
+# Private data - photogrammetric models and source files
+*.blend
+*.blend1
+
+# Any private photos or assets
+private/
+source/
+raw_photos/
