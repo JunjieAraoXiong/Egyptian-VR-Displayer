@@ -48,6 +48,7 @@ Note that affiliations were current at the time of project completion in 2020.
 
 ### Lead Developer
 * Reed Scriven (undergraduate student UC Santa Cruz)
+* Junjie Xiong (undergraduate student UC Berkeley)
 
 ### Staff Contributors
 * Kristy Golubiewski-Davis (Librarian, UC Santa Cruz)
