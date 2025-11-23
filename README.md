@@ -1,6 +1,30 @@
+<div align="center">
+
+<img src="assets/logo.png" alt="Return To The Tomb Logo" width="300">
+
 # Return To The Tomb
 
-***This repository contains very large files! A downloaded zip file will require approximately 170MB of disk space. When unzipped, the contents will require 670MB of disk space!***
+### A Virtual Reality Journey into Ancient Egypt
+
+<br>
+
+![Unity](https://img.shields.io/badge/Unity-2018.3.14f1-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SteamVR](https://img.shields.io/badge/SteamVR-1B2838?style=for-the-badge&logo=steam&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![HTC Vive](https://img.shields.io/badge/VR-HTC%20Vive-00A3E0?style=for-the-badge)
+![HTC Cosmos](https://img.shields.io/badge/VR-HTC%20Cosmos-00A3E0?style=for-the-badge)
+![Meta Quest 2](https://img.shields.io/badge/VR-Meta%20Quest%202-1C1E20?style=for-the-badge&logo=meta&logoColor=white)
+
+![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey?style=for-the-badge)
+
+</div>
+
+<br>
+
+> **Note:** This repository contains very large files! A downloaded zip file will require approximately 170MB of disk space. When unzipped, the contents will require 670MB of disk space!
 
 ## Table of Contents
 - [Description](#description)
